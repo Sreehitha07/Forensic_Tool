@@ -1,0 +1,8 @@
+networkx
+numpy
+pandas
+ping3
+psutil
+reportlab
+requests
+pywin32; platform_system == "Windows"
